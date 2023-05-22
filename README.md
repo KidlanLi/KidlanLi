@@ -36,5 +36,5 @@
 ![macOS](https://img.shields.io/badge/-MacOS-192133?style=flat-square&logo=macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-192133?style=flat-square&logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-Alfred-192133?style=flat-square&logo=latex&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-Latex-192133?style=flat-square&logo=latex&logoColor=white)
 
