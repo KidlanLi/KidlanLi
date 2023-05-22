@@ -32,7 +32,6 @@
 ### 技术栈
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![macOS](https://img.shields.io/badge/-MacOS-192133?style=flat-square&logo=macos&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=Linux&logoColor=white)
