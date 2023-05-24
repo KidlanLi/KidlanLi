@@ -1,3 +1,7 @@
+Hi🖖
+I'm Zonggen Li, an Oxford University offer holder. 
+I am currently studying Computer Science at the University of Munich (LMU) with a minor in Computational Linguistics.
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KidlanLi&count_private=true&show_icons=true&theme=dark" />
