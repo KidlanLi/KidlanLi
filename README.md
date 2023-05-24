@@ -1,5 +1,5 @@
 Hi🖖
-I'm Zonggen Li, an Oxford University offer holder, and currently studying Computer Science at the University of Munich (LMU) with a minor in Computational Linguistics.
+I'm Zonggen Li, an University of Oxford offer holder, and currently studying Computer Science at the University of Munich (LMU) with a minor in Computational Linguistics.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
