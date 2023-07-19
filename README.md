@@ -1,5 +1,5 @@
 Hi🖖
-- I'm Zonggen Li, an IC London offer holder, and currently studying Computer Science at the University of Munich (LMU) with a minor in Computational Linguistics.
+- I'm Zonggen Li, an Imperial College London offer holder, and currently studying Computer Science at the University of Munich (LMU) with a minor in Computational Linguistics.
 - I'm trying to update my undergraduate course notes in a blog about my major in Informatik and minor in Computerlinguistik at the University of Munich. Hopefully I'll have time to perfect it 😊.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
