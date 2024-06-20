@@ -32,7 +32,7 @@ Hi🖖
     <img src="https://activity-graph.herokuapp.com/graph?username=KidlanLi&theme=dracula" />
 </div> -->
 
-### 技术栈
+### Techs
 
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
